@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/JP-Rockpile/JPS-Windows95-Portfolio/static/js/main.1e1c50e4.js",
-    "static/media/jpslarger.png": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/jpslarger.5c57c76de851f3d0a05d.png",
-    "static/media/MS-Sans-Serif.ttf": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.93905f8d36305f50ab93.ttf",
-    "static/media/MS-Sans-Serif.eot": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.30dfad5d3b1a7f298823.eot",
-    "static/media/MS-Sans-Serif.woff": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.82eeac7bf2a95f5c4d29.woff",
-    "static/media/React95Video-Numbers.eot": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.70eb4c838949b5a5d0f5.eot",
-    "static/media/React95Video-Numbers.ttf": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.abf01d42c697853bc208.ttf",
-    "static/media/MS-Sans-Serif.woff2": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.4fb9ed0f3d81e2fccad0.woff2",
-    "static/media/React95Video-Numbers.woff": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.cc52603db1ac08ac9d3b.woff",
-    "static/media/React95Video-Numbers.woff2": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.1b0c9ed82fb40976ab11.woff2",
-    "index.html": "/JP-Rockpile/JPS-Windows95-Portfolio/index.html",
-    "static/media/check.svg": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/check.cab94f089fae33556518400eea96707f.svg",
-    "static/media/check-disabled.svg": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/check-disabled.6c74515b9665a58c67515a6b7d03ecec.svg",
-    "static/media/rightcaret.svg": "/JP-Rockpile/JPS-Windows95-Portfolio/static/media/rightcaret.4316e9ffed3db2dabed84fe4f8329010.svg",
-    "main.1e1c50e4.js.map": "/JP-Rockpile/JPS-Windows95-Portfolio/static/js/main.1e1c50e4.js.map"
+    "main.js": "/JPS-Windows95-Portfolio/static/js/main.88a81fc1.js",
+    "static/media/jpslarger.png": "/JPS-Windows95-Portfolio/static/media/jpslarger.5c57c76de851f3d0a05d.png",
+    "static/media/MS-Sans-Serif.ttf": "/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.93905f8d36305f50ab93.ttf",
+    "static/media/MS-Sans-Serif.eot": "/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.30dfad5d3b1a7f298823.eot",
+    "static/media/MS-Sans-Serif.woff": "/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.82eeac7bf2a95f5c4d29.woff",
+    "static/media/React95Video-Numbers.eot": "/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.70eb4c838949b5a5d0f5.eot",
+    "static/media/React95Video-Numbers.ttf": "/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.abf01d42c697853bc208.ttf",
+    "static/media/MS-Sans-Serif.woff2": "/JPS-Windows95-Portfolio/static/media/MS-Sans-Serif.4fb9ed0f3d81e2fccad0.woff2",
+    "static/media/React95Video-Numbers.woff": "/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.cc52603db1ac08ac9d3b.woff",
+    "static/media/React95Video-Numbers.woff2": "/JPS-Windows95-Portfolio/static/media/React95Video-Numbers.1b0c9ed82fb40976ab11.woff2",
+    "index.html": "/JPS-Windows95-Portfolio/index.html",
+    "static/media/check.svg": "/JPS-Windows95-Portfolio/static/media/check.cab94f089fae33556518400eea96707f.svg",
+    "static/media/check-disabled.svg": "/JPS-Windows95-Portfolio/static/media/check-disabled.6c74515b9665a58c67515a6b7d03ecec.svg",
+    "static/media/rightcaret.svg": "/JPS-Windows95-Portfolio/static/media/rightcaret.4316e9ffed3db2dabed84fe4f8329010.svg",
+    "main.88a81fc1.js.map": "/JPS-Windows95-Portfolio/static/js/main.88a81fc1.js.map"
   },
   "entrypoints": [
-    "static/js/main.1e1c50e4.js"
+    "static/js/main.88a81fc1.js"
   ]
 }
