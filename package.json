@@ -1,7 +1,7 @@
 {
   "name": "jeremy-s-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/JP-Rockpile/JPS-Windows95-Portfolio",
+  "homepage": "https://jp-rockpile.github.io/JPS-Windows95-Portfolio",
   "private": true,
   "dependencies": {
     "@react95/core": "^6.1.3",
