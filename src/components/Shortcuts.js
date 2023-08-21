@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Awfxex32Info, Folder, Awfxcg321303, mediaCdData, Mapi32801, MystifyYourMind100 } from '@react95/icons';
-import '@react95/icons/icons.css';
+import { Folder, Awfxcg321303, mediaCdData, Mapi32801, MystifyYourMind100 } from '@react95/icons';
 
 const StyledShorcut = styled.div`
     margin-left: 20px;

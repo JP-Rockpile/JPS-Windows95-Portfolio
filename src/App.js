@@ -5,7 +5,6 @@ import DataService from './services/dataService';
 import DataContext from './contexts/dataContext';
 import Taskbar from './components/Taskbar';
 import Desktop from './components/Desktop';
-import '@react95/icons/icons.css';
 import styled from 'styled-components';
 import jpsBackgroundLogo from './images/jpslarger.png';
 
